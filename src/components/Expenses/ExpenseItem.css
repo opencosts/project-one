@@ -1,0 +1,11 @@
+.Expense-Item {
+
+    background: aqua;
+    text-align: center;
+    display: block;
+    border: aqua;
+    border-color: aquamarine;
+    margin-bottom: 5px;
+    padding: auto;
+
+}
